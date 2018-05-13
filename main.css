@@ -1,0 +1,9 @@
+body {
+    background-color: #F5F5F5;
+    padding: 1.5em;
+}
+.round {
+    border-radius: 50%;
+    float: right;
+    margin-top: -1.5em;
+}
