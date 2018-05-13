@@ -1,2 +1,2 @@
 # paomarllo.github.io
-Landing page
+This is a basic and in-development-process landing page.
